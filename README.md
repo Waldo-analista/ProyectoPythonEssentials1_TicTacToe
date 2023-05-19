@@ -1,0 +1,1 @@
+Este repositorio contiene mi código que implementa el juego llamado gato aka Tic Tac Toe dejado como proyecto final para aprobar el curso Python Essentials 1 dado por Cisco.
